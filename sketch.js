@@ -15,7 +15,7 @@ function setup() {
 function draw() {
   background(0);
 
-  timeSound.play()
+  //timeSound.play()
   
   
   
